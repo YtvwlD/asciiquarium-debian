@@ -1,3 +1,11 @@
+asciiquarium (1.1-8) yakkety; urgency=medium
+
+  * Change description.
+  * Fix manpage.
+  * Build for Yakkety.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Wed, 15 Jun 2016 17:46:38 +0200
+
 asciiquarium (1.1-7) yakkety; urgency=medium
 
   * Build for Yakkety.
