@@ -1,0 +1,13 @@
+Source: asciiquarium
+Section: games
+Priority: optional
+Maintainer: Niklas Sombert <niklas@ytvwld.de>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.6
+Homepage: http://www.robobunny.com/projects/asciiquarium/html/
+
+Package: asciiquarium
+Architecture: all
+Depends: ${misc:Depends}, ${perl:depends}, libterm-animation-perl
+Description: displays an aquarium with ASCII art
+ Enjoy the mysteries of the sea from the safety of your own terminal!

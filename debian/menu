@@ -1,0 +1,2 @@
+?package(asciiquarium):needs="text" section="Games/Toys"\
+  title="ASCIIQuarium" command="/usr/bin/asciiquarium"
