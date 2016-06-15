@@ -31,5 +31,5 @@ override_dh_auto_build:
 	 --param man.charmap.use.subset 0 \
 	 -o debian/ \
 	 http://docbook.sourceforge.net/release/xsl/current/manpages/docbook.xsl\
-	 debian/gentoo.1.xml
+	 debian/asciiquarium.1.xml
 	 dh_auto_build
