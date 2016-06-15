@@ -97,7 +97,7 @@ man(1), man(7), http://www.tldp.org/HOWTO/Man-Page/
   </refmeta>
   <refnamediv>
     <refname>&dhpackage;</refname>
-    <refpurpose>Displays an aquarium in ASCII art.</refpurpose>
+    <refpurpose>simulation of an aquarium using ASCII art</refpurpose>
   </refnamediv>
   <refsynopsisdiv>
     <cmdsynopsis>
@@ -139,6 +139,7 @@ man(1), man(7), http://www.tldp.org/HOWTO/Man-Page/
         </listitem>
       </varlistentry>
     </variablelist>
+  </refsect1> 
   <refsect1 id="see_also">
     <title>SEE ALSO</title>
     <!-- In alpabetical order. -->
