@@ -1,3 +1,38 @@
+asciiquarium (1.1-19) precise; urgency=medium
+
+  * Fix manpage the third time.
+  * Build for Precise.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Thu, 16 Jun 2016 18:06:38 +0200
+
+asciiquarium (1.1-18) trusty; urgency=medium
+
+  * Fix manpage the third time.
+  * Build for Trusty.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Thu, 16 Jun 2016 18:05:38 +0200
+
+asciiquarium (1.1-17) wily; urgency=medium
+
+  * Fix manpage the third time.
+  * Build for Wily.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Thu, 16 Jun 2016 18:05:38 +0200
+
+asciiquarium (1.1-16) xenial; urgency=medium
+
+  * Fix manpage the third time.
+  * Build for Xenial.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Thu, 16 Jun 2016 18:04:38 +0200
+
+asciiquarium (1.1-15) yakkety; urgency=medium
+
+  * Fix manpage the third time.
+  * Build for Yakkety.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Thu, 16 Jun 2016 17:53:38 +0200
+
 asciiquarium (1.1-14) precise; urgency=low
 
   * Fix manpage the second time.
