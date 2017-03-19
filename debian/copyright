@@ -8,6 +8,9 @@ Copyright: Kirk Baucom <kbaucom@schizoid.com>
 License: GPL-2.0
 
 Files: debian/*
+Copyright: 2016 Niklas Sombert <niklas@ytvwld.de>
+License: GPL-2.0
+
 Files: Makefile
 Copyright: 2016 Niklas Sombert <niklas@ytvwld.de>
 License: GPL-2.0
