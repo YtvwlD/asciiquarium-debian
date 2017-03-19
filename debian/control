@@ -3,7 +3,7 @@ Section: games
 Priority: optional
 Maintainer: Niklas Sombert <niklas@ytvwld.de>
 Build-Depends: debhelper (>=9), docbook-xsl, docbook-xml, xsltproc
-Standards-Version: 3.9.6
+Standards-Version: 3.9.8
 Homepage: http://www.robobunny.com/projects/asciiquarium/html/
 
 Package: asciiquarium
