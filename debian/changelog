@@ -1,3 +1,38 @@
+asciiquarium (1.1-24) zesty; urgency=low
+
+  * Update metadata.
+  * Build for Zesty.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sun, 19 Mar 2017 15:44:55 +0100
+
+asciiquarium (1.1-23) yakkety; urgency=low
+
+  * Update metadata.
+  * Build for Yakkety.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sun, 19 Mar 2017 15:44:20 +0100
+
+asciiquarium (1.1-22) xenial; urgency=low
+
+  * Update metadata.
+  * Build for Xenial.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sun, 19 Mar 2017 15:43:27 +0100
+
+asciiquarium (1.1-21) trusty; urgency=low
+
+  * Update metadata.
+  * Build for Trusty.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sun, 19 Mar 2017 15:35:04 +0100
+
+asciiquarium (1.1-20) precise; urgency=medium
+
+  * Update metadata.
+  * Build for Precise.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sun, 19 Mar 2017 15:29:04 +0100
+
 asciiquarium (1.1-19) precise; urgency=medium
 
   * Fix manpage the third time.
