@@ -1,3 +1,9 @@
+asciiquarium (1.1-26) bionic; urgency=low
+
+  * Build for Bionic.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sun, 20 May 2018 12:25:47 +0200
+
 asciiquarium (1.1-25) artful; urgency=low
 
   * Build for Artful.
