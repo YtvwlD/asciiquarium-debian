@@ -1,3 +1,9 @@
+asciiquarium (1.1-27) cosmic; urgency=low
+
+  * Build for Cosmic.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sun, 20 May 2018 12:32:12 +0200
+
 asciiquarium (1.1-26) bionic; urgency=low
 
   * Build for Bionic.
