@@ -1,3 +1,9 @@
+asciiquarium (1.1-25) artful; urgency=low
+
+  * Build for Artful.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sun, 20 May 2018 12:07:32 +0200
+
 asciiquarium (1.1-24) zesty; urgency=low
 
   * Update metadata.
