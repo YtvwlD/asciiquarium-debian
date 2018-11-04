@@ -1,3 +1,9 @@
+asciiquarium (1.1-28) disco; urgency=low
+
+  * Build for Disco.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sun, 04 Nov 2018 13:48:04 +0100
+
 asciiquarium (1.1-27) cosmic; urgency=low
 
   * Build for Cosmic.
