@@ -1,3 +1,9 @@
+asciiquarium (1.1-29) eoan; urgency=low
+
+  * Build for Eoan.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sat, 16 Nov 2019 19:29:00 +0100
+
 asciiquarium (1.1-28) disco; urgency=low
 
   * Build for Disco.
