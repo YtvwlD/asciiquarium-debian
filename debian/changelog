@@ -1,3 +1,9 @@
+asciiquarium (1.1-31) groovy; urgency=low
+
+  * Build for Groovy.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Fri, 24 Apr 2020 21:57:06 +0200
+
 asciiquarium (1.1-30) focal; urgency=low
 
   * Build for Focal.
