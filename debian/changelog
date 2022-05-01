@@ -1,3 +1,9 @@
+asciiquarium (1.1-34) jammy; urgency=low
+
+  * Build for Jammy.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sat, 30 Apr 2022 21:21:46 +0200
+
 asciiquarium (1.1-33) impish; urgency=low
 
   * Build for Impish.
