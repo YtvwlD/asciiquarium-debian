@@ -1,3 +1,9 @@
+asciiquarium (1.1-36) lunar; urgency=low
+
+  * Build for Lunar.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Wed, 17 May 2023 13:51:15 +0200
+
 asciiquarium (1.1-35) kinetic; urgency=low
 
   * Build for Kinetic.
