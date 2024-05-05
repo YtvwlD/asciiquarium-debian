@@ -1,3 +1,9 @@
+asciiquarium (1.1-37) mantic; urgency=low
+
+  * Build for Mantic.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sun, 05 May 2024 20:42:39 +0200
+
 asciiquarium (1.1-36) lunar; urgency=low
 
   * Build for Lunar.
