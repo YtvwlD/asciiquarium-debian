@@ -1,3 +1,9 @@
+asciiquarium (1.1-38) noble; urgency=low
+
+  * Build for Noble.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sun, 05 May 2024 20:44:56 +0200
+
 asciiquarium (1.1-37) mantic; urgency=low
 
   * Build for Mantic.
