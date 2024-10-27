@@ -1,3 +1,9 @@
+asciiquarium (1.1-39) oracular; urgency=low
+
+  * Build for Oracular.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sun, 27 Oct 2024 19:36:28 +0100
+
 asciiquarium (1.1-38) noble; urgency=low
 
   * Build for Noble.
