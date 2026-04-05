@@ -1,3 +1,9 @@
+asciiquarium (1.1-41) resolute; urgency=low
+
+  * Build for Resolute.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sun, 05 Apr 2026 20:17:05 +0200
+
 asciiquarium (1.1-40) questing; urgency=low
 
   * Build for Questing.
