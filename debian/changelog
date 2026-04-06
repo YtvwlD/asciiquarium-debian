@@ -1,3 +1,9 @@
+asciiquarium (1.1-42) resolute; urgency=low
+
+  * Upgrade debhelper compat level.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Mon, 06 Apr 2026 15:45:40 +0200
+
 asciiquarium (1.1-41) resolute; urgency=low
 
   * Build for Resolute.
